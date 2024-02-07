@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Brain</string>
+    <string name="backimg">backimg</string>
+    <string name="brain">brain</string>
+    <string name="backhome">backhome</string>
+    <string name="backall">backall</string>
+    <string name="dr1">dr1</string>
+    <string name="dr2">dr2</string>
+    <string name="dr3">dr3</string>
+    <string name="next1">next1</string>
+    <string name="imag">imag</string>
+    <string name="backal">backal</string>
+    <string name="first">first</string>
+    <string name="i1">i1</string>
+    <string name="i2">i2</string>
+    <string name="back2">back2</string>
+    <string name="welcome_to_the_app">Welcome To The App</string>
+    <string name="We">We help you take care of your health better</string>
+    <string name="textview">TextView</string>
+    <string name="predict_your_mri_scans">Predict Your MRI Scans</string>
+    <string name="we_help_you_to_predict_a_result_of_your_mri_scans">We help to predict a result of MRI scans</string>
+    <string name="mri">mri</string>
+</resources>
